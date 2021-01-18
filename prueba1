@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: ANIMAL PLANET SD*" tvg-logo="" group-title="CULTURA",CULTURA: ANIMAL PLANET SD*
+http://zufreelist.net:8080/aerfv/aerf/34
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Boomerang*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Boomerang*
+http://zufreelist.net:8080/aerfv/aerf/81
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Boomerang*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="brianna",paola: Boomerang*
+http://zufreelist.net:8080/aerfv/aerf/81
